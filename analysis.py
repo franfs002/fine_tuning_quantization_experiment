@@ -1,6 +1,6 @@
 """Pilot analysis: does the configuration chosen in FP32 stay the best after quantization?
 
-Updated from the original analysis.py to implement Option E:
+Updated from the original analysis.py
 Cluster bootstrap at the article level (--cluster article, using --data-dir dev.json/test.json),
 matching the article-level split of the evaluation data (still supports --cluster passage).
 Disjoint seed resampling in the bootstrap (--seed-resample disjoint): seed counts are drawn
