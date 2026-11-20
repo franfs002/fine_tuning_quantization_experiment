@@ -1,0 +1,10 @@
+{
+  "scores": "/content/drive/MyDrive/thesis/piloto_citca/resultados_squad_es/scores",
+  "out": "/content/drive/MyDrive/thesis/piloto_citca/opcion_E_bootstrap/resultados_opcion_E",
+  "data_dir": "/content/drive/MyDrive/thesis/piloto_citca/data/squad_es",
+  "cluster": "article",
+  "seed_resample": "disjoint",
+  "delta_min": 1.0,
+  "boot": 20000,
+  "seed": 2026
+}
